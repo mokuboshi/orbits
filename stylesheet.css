@@ -3,3 +3,7 @@ background-color:black;
 color:white;
 text-align: center;
 }
+
+ul {
+    text-decoration: none;
+}
