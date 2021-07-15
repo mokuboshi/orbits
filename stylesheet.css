@@ -5,9 +5,13 @@ html {
     margin: 5% 10%;
 }
 
-@media only screen and (max-width: 600px) {
-  body {
+@media only screen and (max-width: 768px) {
+  html {
     margin: 0%;
+  }
+
+  body {
+      margin: 0%;
   }
 }
 
@@ -16,7 +20,6 @@ body {
     background-color:#222;
     color: #fff;
     padding: 1em;
-    margin: 1em;
 }
 
 h1 {
