@@ -13,6 +13,10 @@ html {
   body {
     margin: 0%;
   }
+
+  li {
+    padding: 4px;
+  }
 }
 
 body {
