@@ -49,6 +49,7 @@ a {
 
 li {
     list-style-type: none;
+    padding: 2px;
 }
 
 ul.nav {
